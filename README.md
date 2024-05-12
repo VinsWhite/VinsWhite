@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Vincenzo</h1>
 <h3 align="center">A passionate Full Stack Developer from 🇮🇹🌍! Can't wait to learn more about tech 😆</h3>
 
