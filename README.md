@@ -3,7 +3,12 @@
 <h1 align="center">Hi 👋, I'm Vincenzo</h1>
 <h3 align="center">A passionate Full Stack Developer from 🇮🇹🌍! Can't wait to learn more about tech 😆</h3>
 
+- 💻 I excel in these programming languages: **JavaScript, Typescript, PHP**.
+- 🧠 I excel in these layout languages: **HTML, CSS, SASS**.
+- 🧩 I excel in these libraries and frameworks: **Bootstrap, Tailwind CSS, React (including Redux), Laravel**.
 - 🌱 I’m currently learning **Node.js with MongoDB**
+- 🦅 I want to improve in: **Java, C++** (and more).
+- ⚡ Fun fact: I love learning more about tech! I'm also **interested in AI and Machine Learning** in the future!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
