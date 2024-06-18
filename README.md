@@ -4,9 +4,9 @@
 - 💻 I excel in these programming languages: **JavaScript, Typescript, PHP**.
 - 🧠 I excel in these other front-end technologies: **HTML, CSS, SASS**.
 - 🧩 I excel in these libraries and frameworks: **Bootstrap, Tailwind CSS, React (including Redux), Laravel**.
-- 🌱 I’m currently learning **Node.js with MongoDB**
+- 🌱 I’m currently learning **Node.js (with MongoDB) and Next.js**
 - 🦅 I want to improve in: **Java, C++** (and more).
-- ⚡ Fun fact: I love learning more about tech! I'm also **interested in AI and Machine Learning**!
+- ⚡ Fact: I love learning more about tech! I'm also **interested in AI and Machine Learning**!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
