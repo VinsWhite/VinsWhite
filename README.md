@@ -3,8 +3,9 @@
 
 - 💻 I excel in these programming languages: **JavaScript, Typescript, PHP**.
 - 🧠 I excel in these other front-end technologies: **HTML, CSS, SASS**.
-- 🧩 I excel in these libraries and frameworks: **Bootstrap, Tailwind CSS, React (including Redux and testing libraries like Jest), Next.js, Laravel**.
-- 🌱 I’m currently learning **Vue.js and Node.js (with MongoDB)**
+- 🧩 I excel in these libraries and frameworks: **Bootstrap, Tailwind CSS, React (including Redux and testing libraries like Jest), Next.js, Vue.js, Laravel**.
+- 🌱 I also have experience with **Node.js** (including Express.js).
+- 🗃️ I have experience with databases like **MySQL, PostgreSQL, and MongoDB**.
 - 🦅 I want to improve in: **Java, C++** (and more).
 - ⚡ Fact: I love learning more about tech! I'm also **interested in AI and Machine Learning**!
 
